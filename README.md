@@ -7,3 +7,8 @@ The project contains 2 folders:
  Note that only French and Mandarin words were scraped. English words came from: https://github.com/first20hours/google-10000-english
  
 The main jupyter notebook is where the actual training and testing is.
+
+## Things to be added:
+- saving neural net
+- dropout
+- use tensorboard for visualization
