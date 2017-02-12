@@ -6,4 +6,4 @@ The project contains 2 folders:
 - word list scraping: jupyter notebooks for scraping the data off the internet.
  Note that only French and Mandarin words were scraped. English words came from: https://github.com/first20hours/google-10000-english
  
- The main jupyter notebook is where the actual training and testing is.
+The main jupyter notebook is where the actual training and testing is.
